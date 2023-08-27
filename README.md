@@ -1,1 +1,1 @@
-# Cybebullying-Classification
+# Cyberbullying Classification
